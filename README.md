@@ -1,4 +1,4 @@
-<img src="assets/logo-light.png" width="320">
+<img src="images/logo-light.png" width="320">
 
 # ECCV 2024, Milan, 29 September 2024 - 04 October 2024
 
@@ -14,4 +14,3 @@ General chairs: Laura Leal-Taixe, Vittorio Murino, Andrew Fitzgibbon
 | Friday, May 17, 2024	| Rebuttal deadline (8 days) |
 | Monday, July 1, 2024	| Decisions communicated to authors |
 
-[](https://www.micomilano.it/Sites/MiCo/Img/Carousel/img1.jpg)
