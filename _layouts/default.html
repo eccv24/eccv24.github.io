@@ -1,19 +1,20 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>ECCV 2024</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-  </head>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
   <body>
-    <div class="content">
-      {{ content }}
-    </div>
-    <footer>
-      <div class="container">
-        <!-- my footer -->
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
       </div>
-    </footer>
+    </main>
+
+    {%- include footer.html -%}
+
   </body>
+
 </html>
