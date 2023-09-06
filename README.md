@@ -13,3 +13,5 @@ General chairs: Laura Leal-Taixe, Vittorio Murino, Andrew Fitzgibbon
 | Thursday, May 9, 2024	| Reviews released to authors |
 | Friday, May 17, 2024	| Rebuttal deadline (8 days) |
 | Monday, July 1, 2024	| Decisions communicated to authors |
+
+[](https://www.micomilano.it/Sites/MiCo/Img/Carousel/img1.jpg)
