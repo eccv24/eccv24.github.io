@@ -7,7 +7,7 @@ layout: home
 
 <img src="images/logo-light.png" width="320" align="right">
 
-# ECCV 2024, Milan
+# ECCV 2024, Milano
 
 When: 29 September 2024 - 04 October 2024
 
@@ -25,5 +25,5 @@ Location: [MiCo Milano](https://www.micomilano.it)
 # People
 
 | General chairs | Laura Leal-Taixe, Vittorio Murino, Andrew Fitzgibbon |
-| Program chairs | Ales Leonardis, Stefan Roth, Olga Russakovsky, Torsten Sattler, Gul Varol |
+| Program chairs | Stefan Roth, Olga Russakovsky, Torsten Sattler, Gul Varol |
 
