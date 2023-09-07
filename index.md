@@ -16,6 +16,7 @@ Location: [MiCo Milano](https://www.micomilano.it)
 
 # Dates
 
+| Friday, September 15, 2023 |	Area chair/Reviewer selection opens |
 | Thursday, February 29, 2024 |	Abstract registration deadline |
 | Thursday, March 7, 2024 |	Submission deadline |
 | Thursday, May 9, 2024	| Reviews released to authors |
@@ -27,3 +28,10 @@ Location: [MiCo Milano](https://www.micomilano.it)
 | General chairs | Laura Leal-Taixe, Vittorio Murino, Andrew Fitzgibbon |
 | Program chairs | Stefan Roth, Olga Russakovsky, Torsten Sattler, Gul Varol |
 
+## Area chairs and reviewers
+
+We encourage reviewers and area chairs to self-nominate.  If you know of someone who would be a great reviewer or AC, encourage them to self-nominate.
+
+AC nomination: https://forms.gle/VkgbRU573wVLtgLq5
+
+Reviewer nomination https://forms.gle/cuY6oiBv8JTjvRQ59
