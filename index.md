@@ -32,6 +32,5 @@ Location: [MiCo Milano](https://www.micomilano.it)
 
 We encourage reviewers and area chairs to self-nominate.  If you know of someone who would be a great reviewer or AC, encourage them to self-nominate.
 
-AC nomination: https://forms.gle/VkgbRU573wVLtgLq5
-
-Reviewer nomination https://forms.gle/cuY6oiBv8JTjvRQ59
+  - Area Chair nomination: [google form](https://forms.gle/VkgbRU573wVLtgLq5)
+  - Reviewer nomination: [google form](https://forms.gle/cuY6oiBv8JTjvRQ59)
