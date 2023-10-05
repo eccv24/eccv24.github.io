@@ -22,11 +22,12 @@ Location: [MiCo Milano](https://www.micomilano.it)
 | Thursday, May 9, 2024	| Reviews released to authors |
 | Friday, May 17, 2024	| Rebuttal deadline (8 days) |
 | Monday, July 1, 2024	| Decisions communicated to authors |
+| Sunday, September 29, 2024	| Conference begins |
 
 # People
 
 | General chairs | Laura Leal-Taixe, Vittorio Murino, Andrew Fitzgibbon |
-| Program chairs | Stefan Roth, Olga Russakovsky, Torsten Sattler, Gul Varol |
+| Program chairs | Ales Leonardis, Elisa Ricci, Stefan Roth, Olga Russakovsky, Torsten Sattler, Gul Varol |
 
 ## Area chairs and reviewers
 
