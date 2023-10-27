@@ -34,7 +34,7 @@ Location: [MiCo Milano](https://www.micomilano.it)
 # People
 
 | General chairs | Laura Leal-Taixe, Vittorio Murino, Andrew Fitzgibbon |
-| Program chairs | Ales Leonardis, Elisa Ricci, Stefan Roth, Olga Russakovsky, Torsten Sattler, Gul Varol |
+| Program chairs [[contact]](mailto:eccv2024-programchairs@ecva.net) | Ales Leonardis, Elisa Ricci, Stefan Roth, Olga Russakovsky, Torsten Sattler, Gul Varol |
 
 ## Area chairs and reviewers
 
