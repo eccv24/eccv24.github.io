@@ -38,7 +38,7 @@ Location: [MiCo Milano](https://www.micomilano.it)
 
 ## Area chairs and reviewers
 
-We encourage reviewers and area chairs to self-nominate.  If you know of someone who would be a great reviewer or AC, encourage them to self-nominate.
+We encourage reviewers and area chairs to self-nominate.  If you know of someone who would be a great reviewer or AC, encourage them to self-nominate by filling the form (please do not send an email - we cannot reply to all the individual emails).
 
   - Area Chair nomination: [google form](https://forms.gle/VkgbRU573wVLtgLq5)
   - Reviewer nomination: [google form](https://forms.gle/cuY6oiBv8JTjvRQ59)
