@@ -23,14 +23,14 @@ Papers in the main technical program must describe high-quality, original resear
 
 Important Dates:
 
-|Paper Registration Deadline[^*]:|Thu, Feb 29, 2024 13:00 Pacific Time|
-|Submission Deadline[^*]:|Thu, Mar 7, 2024 13:00 Pacific Time|
-|Supplementary Materials Deadline[^*]:|Thu, Mar 14, 2024 13:00 Pacific Time|
+|Paper Registration Deadline[^1]:|Thu, Feb 29, 2024 13:00 Pacific Time|
+|Submission Deadline[^1]:|Thu, Mar 7, 2024 13:00 Pacific Time|
+|Supplementary Materials Deadline[^1]:|Thu, Mar 14, 2024 13:00 Pacific Time|
 |Reviews Released:|Thu, May 9, 2024|
-|Rebuttal Period[^*]:|Fri, May 9-17, 2024|
+|Rebuttal Period[^1]:|Fri, May 9-17, 2024|
 |Final Decisions:|Mon, Jul 1, 2024|
 
-[^*] Deadlines are fixed, no extension will be given.
+[^1] Deadlines are fixed, no extension will be given.
 
 ## Paper Submission
 All submissions will be handled electronically via the CMT conference submission website [https://cmt3.research.microsoft.com/ECCV2024/](https://cmt3.research.microsoft.com/ECCV2024/). 
