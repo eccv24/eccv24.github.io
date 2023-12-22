@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # FAQs
 ## About Submitting Papers and Supplementary Material
 **Q.** What does paper registration deadline mean? What do I need to do before then?
@@ -16,7 +20,7 @@
 
 **A.** NO. After the paper registration  deadline, the author list is considered final. Changes to the authorship order may be done freely between the registration and submission deadlines. Further changes to the authorship order following acceptance may be considered, but only in special circumstances.
 
-**Q.** Are acknowledgements permitted in the submitted paper.
+**Q.** Are acknowledgements permitted in the submitted paper?
 
 **A.** NO, acknowledgements should only be included in the camera-ready paper.
 
@@ -55,7 +59,7 @@ Authors bear the responsibility and are advised to proceed with caution not to b
 
 **Q.** Can I post my submission on arXiv? 
 
-**A.** Yes. But you cannot label it as a submission to ECCV.
+**A.** Yes. But you cannot label it as a submission to ECCV. (However, note that accepted ECCV 2024 papers that did not appear on arXiv prior to the decision announcement will be specially recognized at the conference. Please see the [Submission Policies](submission_policies.md) for details.)
 
 **Q.** Can I have a video link in my arXiv paper?
 
@@ -84,7 +88,7 @@ Aligned with general policies of the other main computer vision conferences, ECC
 
 **Q.** How will the program chairs (PCs) interpret this policy?
 
-**A.** The PCs consider any article, post, website, etc. that explicitly states that a certain paper will be submitted to ECCV 2024, has been submitted to ECCV 2024, or is under review at ECCV 2024 to violate this policy. Consequently, the corresponding paper will be rejected / removed from the conference and the proceedings. This policy is enforced from the start of the embargo period (December 22nd) until acceptance / rejection decisions have been announced. 
+**A.** The PCs consider any article, post, website, etc. that explicitly states that a certain paper will be submitted to ECCV 2024, has been submitted to ECCV 2024, or is under review at ECCV 2024 to violate this policy. Consequently, the corresponding paper will be rejected / removed from the conference and the proceedings. This policy is enforced from the start of the embargo period (December 22nd, 2023) until acceptance / rejection decisions have been announced. 
 
 **Q.** Does this policy prevent authors from discussing their paper with the media or on social media?
 
@@ -181,7 +185,7 @@ Aligned with general policies of the other main computer vision conferences, ECC
 
 **Q.** Are anonymous GitHub links allowed?
 
-**A.** Yes. However, they have to be on a branch that will not be modified after the submission deadline. Please enter the GitHub link in a standalone text file in a submitted ZIP file.
+**A.** YES. However, they have to be on a branch that will not be modified after the submission deadline. Please enter the GitHub link in a standalone text file in a submitted ZIP file.
 
 **Q.** How will the submitted code be used for decision-making?
 
