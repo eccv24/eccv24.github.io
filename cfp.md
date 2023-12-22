@@ -29,18 +29,18 @@ Papers in the main technical program must describe high-quality, original resear
 
 Important Dates:
 
-|**Paper Registration Deadline**[^1]|Thu, Feb 29, 2024 13:00 Pacific Time|
-|**Submission Deadline**[^1]|Thu, Mar 7, 2024 13:00 Pacific Time|
-|**Supplementary Materials Deadline**[^1]|Thu, Mar 14, 2024 13:00 Pacific Time|
+|**Paper Registration Deadline**<sup>*</sup>|Thu, Feb 29, 2024 13:00 Pacific Time|
+|**Submission Deadline**<sup>*</sup>|Thu, Mar 7, 2024 13:00 Pacific Time|
+|**Supplementary Materials Deadline**<sup>*</sup>|Thu, Mar 14, 2024 13:00 Pacific Time|
 |**Reviews Released**|Thu, May 9, 2024|
-|**Rebuttal Period**[^1]|Fri, May 9-17, 2024|
+|**Rebuttal Period**<sup>*</sup>|Fri, May 9-17, 2024|
 |**Final Decisions**|Mon, Jul 1, 2024|
 
-[^1]: Deadlines are fixed, no extension will be given.
+<sup>*</sup> Deadlines are fixed, no extension will be given.
 
 ## Paper Submission
 All submissions will be handled electronically via the CMT conference submission website [https://cmt3.research.microsoft.com/ECCV2024/](https://cmt3.research.microsoft.com/ECCV2024/). 
-All authors must agree to the policies stipulated below. Papers must be registered in CMT by February 29, 2024 at 13:00 Pacific time. The submission deadline is March 7, 2024 at 13:00 Pacific time and will not be extended. Supplementary materials can be submitted until March 14, 2024 at 13:00 Pacific time.
+All authors must agree to the policies stipulated below. Papers **must** be registered in CMT by **February 29, 2024** at 13:00 Pacific time. The submission deadline is **March 7, 2024** at 13:00 Pacific time and **will not be extended**. Supplementary materials can be submitted until **March 14, 2024** at 13:00 Pacific time.
 
 ## Policies
 **General:** ECCV 2024 uses the Springer Nature Code of Conduct for Book Authors as the basis for many of the policies. We therefore urge you to familiarize yourself with these guidelines before preparing and submitting your work to ECCV 2024.
