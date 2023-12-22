@@ -20,7 +20,7 @@ To create a new paper submission the corresponding author should perform the fol
 ### Step 3
 **Paper ID number:** Once you have registered your paper, you will be assigned a paper ID number by CMT. Insert this into the LaTeX template before generating the PDF of your paper for submission. Papers submitted without the ID number may not be reviewed.
 
-## Submission Requirements:
+## Submission Requirements
 The maximum size of the abstract that **CMT will accept** is 4000 characters. **The LNCS limits on word count are not critical at submission time.**
 The paper must be PDF only (maximum 50 MB). Make sure your paper meets the formatting and anonymity requirements (see ECCV 2024 Submission Policies).
 By the supplementary material deadline (Mar 14, 2024 at 13:00 Pacific time), the authors may optionally submit additional material that was ready at the time of paper submission but could not be included due to constraints of format or space. The supplementary material can be either PDF or ZIP only (maximum 100 MB). The paper for review (PDF only) must be uploaded first before CMT will accept uploads of the supplementary material. Note that the upload of supplementary materials will only be enabled after the submission deadline for the main papers has passed.
