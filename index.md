@@ -13,9 +13,7 @@ layout: home
 
 **Location:** [MiCo Milano](https://www.micomilano.it) 
 
-<div><p/></div>
-
-**News:**
+# News 
 * *December 22, 2023:* ECCV 2024 is now [open for submissions](#submissions).
 
 # Dates
