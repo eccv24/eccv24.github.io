@@ -48,7 +48,7 @@ All authors must agree to the policies stipulated below. Papers must be register
 ## Policies
 **General:** ECCV 2024 uses the Springer Nature Code of Conduct for Book Authors as the basis for many of the policies. We therefore urge you to familiarize yourself with these guidelines before preparing and submitting your work to ECCV 2024.
 
-In submitting a manuscript to ECCV, the authors acknowledge that no paper substantially similar in content has been or will be submitted to another conference or workshop during the review period (March 7, 2024 – July 1, 2024). Please refer to the Author Guidelines on the conference web site for additional details on dual submissions and guidelines concerning prior work.
+In submitting a manuscript to ECCV, the authors acknowledge that no paper substantially similar in content has been or will be submitted to another conference or workshop during the review period (March 7, 2024 – July 1, 2024). Please refer to the [Submission Policies](submission_policies.md) on the conference web site for additional details on dual submissions and guidelines concerning prior work.
 
 By submitting a paper to ECCV, the authors agree to the review process and understand that papers are processed by CMT, TPMS (Toronto Paper Matching System), as well as OpenReview to match each manuscript to the best possible area chairs and reviewers. Moreover, the authors agree that papers will be checked for plagiarism using iThenticate.
 
