@@ -9,9 +9,12 @@ layout: home
 
 # ECCV 2024, Milano
 
-When: 29 September 2024 - 04 October 2024
+**29 September 2024 - 04 October 2024**
 
-Location: [MiCo Milano](https://www.micomilano.it) 
+**Location:** [MiCo Milano](https://www.micomilano.it) 
+
+**News:**
+* *December 22, 2023:* ECCV 2024 is now [open for submissions](#submissions).
 
 # Dates
 
@@ -37,6 +40,18 @@ Location: [MiCo Milano](https://www.micomilano.it)
 
 <u>Note:</u> All deadlines are at 13:00 PST (to ensure faster CMT support). These dates, as well as the internal dates for reviewers and ACs, can be viewed <a href="https://tinyurl.com/eccv2024calendarview">here</a>. You can add these to your calendar (on <a href="https://tinyurl.com/eccv2024calendar">Google calendar</a> or <a href="https://calendar.google.com/calendar/ical/afa2ed37f3e8d2f2bd4002b5a03aa5845b14398205f7a593e05f9c8e0e8d59a5%40group.calendar.google.com/public/basic.ics">iCal format</a>).
 
+# Submissions
+
+ECCV 2024 is open for submissions:
+* [Call for Papers](cfp.md)
+* CMT conference submission website: https://cmt3.research.microsoft.com/ECCV2024/
+* Before preparing and submitting a paper to ECCV 2024, authors must familiarize themselves with the following policies and guidelines:
+  * [Submission Policies](submission_policies.md)
+  * [Ethics Guidelines](ethics_guidelines.md)
+  * [Springer Nature Code of Conduct for Book Authors](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
+  * [CMT Author Instructions](cmt_instructions.md)
+  * [Suggested Practices](author_practices.md)
+  * [FAQs](faqs.md)
 
 # People
 
