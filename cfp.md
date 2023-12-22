@@ -1,3 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
+
+<img src="images/logo-light.png" width="320" align="right">
+
 # ECCV 2024
 September 29 - October 4, 2024, Milan, Italy
 
