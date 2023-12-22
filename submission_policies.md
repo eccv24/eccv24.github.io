@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # ECCV 2024 Submission Policies
 All authors must carefully review the following policies that govern the submission and review process, as failure to comply with these policies may result in the rejection of your submission as well as possible additional sanctions in the case of dual submissions and plagiarism. The authors are further urged to consult ECCV 2024’s [ethics guidelines](ethics_guidelines.md), [recommended best practices](author_practices.md), and [FAQs](faqs.md).
 
