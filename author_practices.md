@@ -13,7 +13,7 @@ If a paper promises the release of code, it is expected that the code will be re
 
 IRB reviews for the US or the appropriate local ethics approvals are typically required for new datasets in most countries. It is the dataset creators' responsibility to obtain them. If the authors use an existing, published dataset, we encourage, but do not require them to check how data was collected and whether consent was obtained. Our goal is to raise awareness of possible issues that might be ingrained in our community. Thus we would like to encourage dataset creators to provide this information to the public.
 
-Refer to the ethics guidelines for more detail.
+Refer to the [ethics guidelines](ethics_guidelines.md) for more detail.
 
 **Discussion of limitations:** Considering the limitations of an approach is an important part of good academic scholarship. Such discussion should point out any strong assumptions and how robust the results are to violations of these assumptions (e.g., independence assumptions, noiseless settings, asymptotic approximations only held locally). Authors should reflect on how these assumptions might be violated in practice and what the implications would be. 
 
