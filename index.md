@@ -13,6 +13,8 @@ layout: home
 
 **Location:** [MiCo Milano](https://www.micomilano.it) 
 
+<div><p/></div>
+
 **News:**
 * *December 22, 2023:* ECCV 2024 is now [open for submissions](#submissions).
 
@@ -44,7 +46,7 @@ layout: home
 
 ECCV 2024 is open for submissions:
 * [Call for Papers](cfp.md)
-* CMT conference submission website: https://cmt3.research.microsoft.com/ECCV2024/
+* CMT conference submission website: [https://cmt3.research.microsoft.com/ECCV2024/](https://cmt3.research.microsoft.com/ECCV2024/)
 * Before preparing and submitting a paper to ECCV 2024, authors must familiarize themselves with the following policies and guidelines:
   * [Submission Policies](submission_policies.md)
   * [Ethics Guidelines](ethics_guidelines.md)
