@@ -1,4 +1,4 @@
-# Suggested Practices for Authors
+# Suggested Practices for ECCV 2024 Authors
 
 **Reproducibility:** 
 Refer to this Reproducibility Checklist as a guide for making sure your paper is reproducible. Reviewers should follow this guide when evaluating papers as well. We highly encourage authors to voluntarily submit their code as part of supplementary material, especially if they plan to release it upon acceptance. Reviewers may optionally check this code to ensure the paper’s results are reproducible and trustworthy, but are not required to. We expect (but do not require) that authors either submit the accompanying code with accepted papers or link to a public and properly anonymized GitHub repository. 
