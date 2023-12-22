@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 # ECCV 2024 Ethics Guidelines
 
-*This document has been adapted from the CVPR 2024 Ethics Guidelines, which were adapted from the CVPR 2022 Ethics Guidelines (which were in turn based on the NeurIPS 2021 Guidelines).*
+*This document has been adapted from the [CVPR 2024 Ethics Guidelines](https://cvpr.thecvf.com/Conferences/2024/EthicsGuidelines), which were adapted from the [CVPR 2022 Ethics Guidelines](https://cvpr2022.thecvf.com/ethics-guidelines) (which were in turn based on the [NeurIPS 2021 Guidelines](https://nips.cc/public/EthicsGuidelines)).*
 
 As computer vision research and applications have increasing real-world impact, the likelihood of meaningful social benefit increases, but so does the attendant risk of harm. The research community should consider not only the potential benefits but also the potential negative societal impacts of computer vision research, and adopt measures that enable positive trajectories to unfold while mitigating risk of harm. This document should be used by authors, reviewers, and area chairs in order to develop a common understanding of important ethical principles for ECCV.
 During the ECCV review process, reviewers will have the ability to flag papers with significant ethical concerns. These will be referred to an ethics committee, which will assess the situation and advise the program chairs. The program chairs reserve the right to reject papers with grave ethical issues, but expect this to occur only in exceptional circumstances.
