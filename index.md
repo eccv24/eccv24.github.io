@@ -45,6 +45,7 @@ layout: home
 ECCV 2024 is open for submissions:
 * [Call for Papers](cfp.md)
 * [Call for Workshops](call_for_workshops.md)
+* [Call for Tutorials](call_for_tutorials.md)
 * CMT conference submission website: [https://cmt3.research.microsoft.com/ECCV2024/](https://cmt3.research.microsoft.com/ECCV2024/)
 * Before preparing and submitting a paper to ECCV 2024, authors must familiarize themselves with the following policies and guidelines:
   * [Submission Policies](submission_policies.md)
